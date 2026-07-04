@@ -1,0 +1,6 @@
+Metric,Baseline,Engineered,Baseline_Display,Engineered_Display
+Hit Rate@5,0.3333333333333333,0.2222222222222222,33.3%,22.2%
+MRR,0.18888888888888888,0.06481481481481481,0.19,0.06
+Groundedness,1.0,1.0,100.0%,100.0%
+Factual Accuracy,0.0,0.0,0.0%,0.0%
+Hallucination Rate,0.0,0.0,0.0%,0.0%
